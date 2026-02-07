@@ -64,3 +64,13 @@ services:
 ✔ -d = background mode
 ✔ -f = use specific YAML file
 ```
+
+```bash
+    Command	                      Meaning
+docker compose up	      Start all services
+docker compose down	      Stop all services
+docker compose ps	      List running services
+docker compose logs	      Show logs
+docker compose restart	  Restart all services
+docker compose pull	      Update images
+```

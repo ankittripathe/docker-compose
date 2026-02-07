@@ -1,6 +1,5 @@
 # Docker Compose
 - A tool used to run multi-container applications using a single file called docker-compose.yml.
-
 - Instead of running multiple docker run commands manually, you can define all services in one YAML file and start them together with one command.
 
 

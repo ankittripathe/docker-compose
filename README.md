@@ -66,7 +66,7 @@ services:
 ```
 
 ```bash
-    Command	                      Meaning
+    Command	                   Meaning
 docker compose up	      Start all services
 docker compose down	      Stop all services
 docker compose ps	      List running services

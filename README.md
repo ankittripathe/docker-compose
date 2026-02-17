@@ -76,4 +76,4 @@ docker compose pull	      Update images
 ```
 
 # Instructor 
-- trainwithsubham
+- Apna College

@@ -74,3 +74,6 @@ docker compose logs	      Show logs
 docker compose restart	  Restart all services
 docker compose pull	      Update images
 ```
+
+# Instructor 
+- trainwithsubham
